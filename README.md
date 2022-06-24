@@ -1,6 +1,6 @@
 ### Hi! I'm Yana 👋
 
-   I have already studied:            |    I'm actively studying now:
+   I have already studied:      |      |    I'm actively studying now:
 --------------------------------------|:------------------------------------: 
          Python (Junior)              |          Working in Linux 
     Python Django Framework           |     Python DjangoRestFramework 
