@@ -5,8 +5,9 @@ I want to learn and develop! Especially I like Python🐍
 ---------------------------|-------------------------- 
 Python (Junior)            |Working in Linux          
 Python Django Framework    |Python DjangoRestFramework 
-VBA                        |Python Selenium           
-Basic CSS                  |SQL                       
+VBA                        |SQL          
+Basic CSS                  |                       
 Basic HTML                 |               
 Basic JavaScript           |               
 Basic 1C                   |                               
+Python Selenium            |
