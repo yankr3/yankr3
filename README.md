@@ -11,3 +11,4 @@ Basic HTML                 |
 Basic JavaScript           |               
 Basic 1C                   |                               
 Python Selenium            |
+Flask                      |
