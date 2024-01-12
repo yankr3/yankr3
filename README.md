@@ -1,6 +1,5 @@
-### Hi! I'm Yana 👋
-I want to learn and develop! Especially I like Python🐍
-
+### Hi! 🐍
+About me:
 **I have already studied:**|**I'm actively studying now:**
 ---------------------------|-------------------------- 
 Python (Junior)            |        
