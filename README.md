@@ -13,4 +13,4 @@ Python Selenium            |
 Python Flask               |
 SQL                        |
 Python DjangoRestFramework |
-Working in Linux           |
+Linux                      |
